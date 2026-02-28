@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hallo ik ben Kenan 👋
 
-<!--
-**KMOzk/KMOzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ik ben een developer gefocust op het bouwen van creatieve ervaringen. Je kunt mijn volledige portfolio vinden op [kmozk.github.io](https://kmozk.github.io/).
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+Hier zijn de talen en tools waar ik momenteel mee werk:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## 🚀 Projecten
+Van functionele oplossingen tot interactieve, creatieve applicaties—ik bouw code met oog voor detail. Bekijk mijn uitgelichte repositories hieronder voor een sterke indruk van mijn werk.
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KMOzk&show_icons=true&theme=tokyonight" alt="KMOzk's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMOzk&layout=compact&theme=tokyonight" alt="Meest gebruikte talen" />
+</p>
+
+## 📫 Contact
+Je kunt me vinden op de volgende platformen:
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Kenan.3_8)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenan%C3%B6zbakan/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kenan.3_8)
+
+---
+*Laatst bijgewerkt vanaf [mijn portfolio](https://kmozk.github.io/)*
