@@ -13,12 +13,6 @@ Hier zijn de talen en tools waar ik momenteel mee werk:
 ## 🚀 Projecten
 Van functionele oplossingen tot interactieve, creatieve applicaties—ik bouw code met oog voor detail. Bekijk mijn uitgelichte repositories hieronder voor een sterke indruk van mijn werk.
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KMOzk&show_icons=true&theme=tokyonight" alt="KMOzk's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMOzk&layout=compact&theme=tokyonight" alt="Meest gebruikte talen" />
-</p>
-
 ## 📫 Contact
 Je kunt me vinden op de volgende platformen:
 
