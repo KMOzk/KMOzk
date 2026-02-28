@@ -1,6 +1,6 @@
 # Hallo ik ben Kenan 👋
 
-Ik ben een developer gefocust op het bouwen van creatieve ervaringen. Je kunt mijn volledige portfolio vinden op [kmozk.github.io](https://kmozk.github.io/).
+Ik ben een developer gefocust op het bouwen van creatieve ervaringen. Momenteel studeer ik aan de Hogeschool Utrecht. Je kunt mijn volledige portfolio vinden op [kmozk.github.io](https://kmozk.github.io/).
 
 ## 🛠️ Tech Stack
 Hier zijn de talen en tools waar ik momenteel mee werk:
@@ -21,4 +21,3 @@ Je kunt me vinden op de volgende platformen:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kenan.3_8)
 
 ---
-*Laatst bijgewerkt vanaf [mijn portfolio](https://kmozk.github.io/)*
